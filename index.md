@@ -1,15 +1,8 @@
-## Welcome to GitHub Pages
+# Journal club of the Plant Systematics Lab
 
-You can use the [editor on GitHub](https://github.com/plantsystibusp/plantsystibusp.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This is the website of the Plant Systematics laboratory. Here you can find ...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+![Image](/home/spreinalesl/Downloads/imagen.jpg)
 
 # Header 1
 ## Header 2
@@ -21,9 +14,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
